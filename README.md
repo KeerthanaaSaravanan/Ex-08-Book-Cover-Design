@@ -143,3 +143,7 @@ img {
 ```
 
 # OUTPUT:
+
+![Screenshot 2023-12-17 220523](https://github.com/KeerthanaaSaravanan/Ex-08-Book-Cover-Design/assets/145742596/d0b29f00-77cc-44de-a62f-982c2d5944a8)
+
+
