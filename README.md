@@ -5,15 +5,16 @@ Design the following book cover page using HTML and CSS
 
 # DESIGN STEPS: 
 Step 1:
-
+Initialize HTML Structure:
 
 Step 2:
-
+Define Styles:
 
 Step 3:
-
+Create Book Cover Page Container:
 
 Step 4:
+Populate Book Cover Page and adjust Formatting:
 
 
 # CODE: 
