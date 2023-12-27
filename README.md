@@ -1,4 +1,4 @@
-# Ex-08-Book-Cover-Design 
+# Ex-08: Book-Cover-Design 
 
 # AIM:
 Design the following book cover page using HTML and CSS
@@ -19,6 +19,10 @@ Populate Book Cover Page and adjust Formatting:
 
 # CODE: 
 ```
+'''
+Developed By: KEERTHANA S
+Register No: 23013398
+'''
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -147,4 +151,6 @@ img {
 
 ![Screenshot 2023-12-17 220523](https://github.com/KeerthanaaSaravanan/Ex-08-Book-Cover-Design/assets/145742596/d0b29f00-77cc-44de-a62f-982c2d5944a8)
 
+# RESULT:
 
+The book cover is successfully created.
